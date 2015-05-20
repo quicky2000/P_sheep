@@ -4,3 +4,11 @@
 
 P_sheep is the integration repository for Sheep jigsaw implementation using FSM 
  
+# Subtrees
+#----------
+git@github.com:quicky2000/sheep.git
+git@github.com:quicky2000/sheep_TextUi.git
+git@github.com:quicky2000/FSM_base.git
+git@github.com:quicky2000/FSM_interfaces.git
+git@github.com:quicky2000/quicky_tools.git
+#EOF
